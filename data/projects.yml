@@ -4,6 +4,7 @@
 - aws-maintenance-lambda
 - rocks
 - vasuki
+- marathon-logger
 - gocd-mesos
 - the-vision
 - web-auto-extractor
