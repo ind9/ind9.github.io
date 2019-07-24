@@ -11,3 +11,6 @@
 
 # Ignore .DS_store file
 .DS_Store
+
+# Ingore Gemfile.lock
+Gemfile.lock
